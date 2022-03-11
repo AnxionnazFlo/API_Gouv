@@ -3,8 +3,8 @@
 ## 1. Contexte de l'évaluation 
 
 Module de formation XML/Ajax.
-L'objectif est de faire une application mono-page permetant de chercher des bâtiments administratifs en France.<br \>
-Nous avons à disposition les APIs du gouvernement.<br \>
+L'objectif est de faire une application mono-page permetant de chercher des bâtiments administratifs en France.  
+Nous avons à disposition les APIs du gouvernement.  
 https://api.gouv.fr/documentation/api_etablissements_publics
 
 
