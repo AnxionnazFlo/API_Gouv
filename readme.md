@@ -3,9 +3,9 @@
 ## 1. Contexte de l'évaluation 
 
 Module de formation XML/Ajax.
-L'objectif est de faire une application mono-page permetant de chercher des bâtiments administratifs en France.
-Nous avons a disposition les APIs du gouvernement.
-`https://api.gouv.fr/documentation/api_etablissements_publics`
+L'objectif est de faire une application mono-page permetant de chercher des bâtiments administratifs en France.<br \>
+Nous avons à disposition les APIs du gouvernement.<br \>
+https://api.gouv.fr/documentation/api_etablissements_publics
 
 
 #### Fonctionnalitées désirées :
@@ -37,9 +37,13 @@ Nous avons a disposition les APIs du gouvernement.
 - Créer une fichier .env à la racine du Projet
 
 - Générer un token sur MapBox pour faire fonctionner la carte
-    `https://docs.mapbox.com/help/getting-started/access-tokens/`
+    https://docs.mapbox.com/help/getting-started/access-tokens/
 
 - Ecrire votre token (dans le fichier .env) pour l'API MapBox sous la forme : `const tokenMapBox = 'votre_token_ici`
+
+- Tout devrais fonctionner à présent
+
+- Have fun
 
 
 
