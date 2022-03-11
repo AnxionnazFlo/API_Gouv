@@ -2,13 +2,13 @@
 
 ## 1. Contexte de l'évaluation 
 
-Module de formation XML/Ajax.
+Module de formation XML/Ajax.  
 L'objectif est de faire une application mono-page permetant de chercher des bâtiments administratifs en France.  
 Nous avons à disposition les APIs du gouvernement.  
 https://api.gouv.fr/documentation/api_etablissements_publics
 
 
-#### Fonctionnalitées désirées :
+#### 1.1 Fonctionnalitées désirées :
 
 - Créer dynamiquement une liste ordonnée des départements
 - Récupérer dynamiquement la liste des villes du département sélectionné
@@ -16,7 +16,7 @@ https://api.gouv.fr/documentation/api_etablissements_publics
 - Les markers des bâtiments doivent permettrent d'obtenir les informations disponibles sur l'administration
 - Gérer l'affichage de la carte, l'affichage ou non des markers
 
-#### Contrainte technique : 
+#### 1.2 Contrainte technique : 
 
 - Toute la page doit être gérée en Front
 - Pas de langage back
@@ -43,7 +43,7 @@ https://api.gouv.fr/documentation/api_etablissements_publics
 
 - Tout devrais fonctionner à présent
 
-- Have fun
+#### Have fun
 
 
 
